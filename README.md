@@ -41,6 +41,27 @@ I am skilled in data profiling, validation, and report presentation with 5 years
 
 ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
+### 🧗‍♀️ Experience  
+
+**Xiaomi India** _(3 years 6 months)_  
+:small_orange_diamond:Senior Quality Analyst  
+May 2022 - June 2023 _(1 year 2 months)_  
+Bengaluru, Karnataka, India  
+_**Overview:**_ Experienced Quality Team Lead with a successful track record at Xiaomi, contributing for three and a half years to the company's excellence in product quality and customer satisfaction.  
+
+:small_orange_diamond: Quality Analyst  
+Jan 2020 - May 2022 _(2 year 4 months)_  
+Bengaluru, Karnataka, India  
+_**Overview:**_ Developed numerous insightful reports that provided crucial insights into phone performance and quality, contributing to better decision-making processes within the organization.  
+
+**Huawei Technologies India** _(1 year 8 months)_  
+:small_orange_diamond:Data Analyst  
+June 2018 - January 2020 _(1 year 8 months)_  
+Bengaluru, Karnataka, India  
+_**Overview:**_ Analyzing the Voice of Customer's (VOC) for positive and negative feedback via omni channel approach and generating the reports for various products daily, dual daily and weekly based on the stability of product after releasing in
+to the market.
+
+
 ### 🎓 Education
 
 Kamla Nehru Institute of Technology ( 77 %)  
@@ -70,6 +91,11 @@ Aug 2013 – June 2016
   <img src="https://img.shields.io/badge/Manual_Testing-FFA500?style=flat-square" alt="Manual Testing"/>
   
 </p>
+
+### 🧑‍💻 Leetcode Profile  
+
+![image](https://github.com/Nuzhat-Raza/NuzhatRaza.github.io/assets/140976114/623faea5-17c2-438c-b85e-ba9d72569de7)
+
 
 ### 📞 Contact Me
 
