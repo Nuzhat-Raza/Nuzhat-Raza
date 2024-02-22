@@ -41,3 +41,11 @@ I am skilled in data profiling, validation, and report presentation with 5 years
 
 ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
+### 🎓 Education
+
+Kamla Nehru Institute of Technology ( 77 %)  
+Sultanpur, India  
+B.Tech. in Electronics Engineering (First Class with Honors)  
+Aug 2013 – June 2016  
+
+
