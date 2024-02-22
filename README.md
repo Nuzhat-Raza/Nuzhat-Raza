@@ -48,6 +48,13 @@ Sultanpur, India
 B.Tech. in Electronics Engineering (First Class with Honors)  
 Aug 2013 – June 2016  
 
+### :scroll: Certifications
+
+:small_orange_diamond:Introduction to Generative AI | Google Cloud| Coursera  
+:small_orange_diamond:Python Basics | University of Michigan| Coursera  
+:small_orange_diamond:Programming Foundations with JavaScript, HTML and CSS  | Duke University| Coursera  
+:small_orange_diamond:Programming for Everybody (GettingStarted with Python) | University of Michigan| Coursera  
+
 ### 💻 Languages and Tools
 
 <p align="center">
