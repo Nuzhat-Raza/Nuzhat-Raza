@@ -61,8 +61,18 @@ Aug 2013 – June 2016
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Manual_Testing-FFA500?style=flat-square" alt="Manual Testing"/>
-
   
 </p>
+
+### 📞 Contact Me
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/NuzhatRaza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nuzhat-raza-599190208/)
+
+
+Feel free to connect with me on LinkedIn, and let's explore the fascinating world of data together!
+
+You can also reach me at:
+📧 Email: nuzhatrkhan23@gmail.com
+
 
 
