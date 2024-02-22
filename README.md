@@ -1,14 +1,16 @@
-👩‍💻 **Intro**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-I am skilled in data profiling, validation, and report presentation with 5 years of industry experience. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India and Xiaomi India as a Data Analyst and Quality Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
+<div align="center">
+  <a href="https://www.linkedin.com/in/nuzhat-raza-599190208/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-**🎓 Education**
+![Profile Views](https://komarev.com/ghpvc/?username=Nuzhat-Raza&label=Profile+Views&color=red)
+---
 
-Kamla Nehru Institute of Technology ( 77 %)
-Sultanpur, India
-B.Tech. in Electronics Engineering (First Class with Honors)
-Aug 2013 – June 2016
+### :woman_technologist: Intro
 
-**💻 Languages and Tools**
-
-Power BI Jira Python Java MySQL HTML CSS JavaScript
+I am skilled in data profiling, validation, and report presentation with 5 years of industry experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India and Xiaomi India as a Data Analyst and Quality Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
