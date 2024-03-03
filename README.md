@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/200.webp?cid=ecf05e47rusmlgxmhafboutz3nq4kt24po9zfcjkbh3ji723&ep=v1_gifs_search&rid=200.webp&ct=g" width="250"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ### :woman_technologist: Intro
 
-I am skilled in data profiling, validation, and report presentation with 5 years of industry experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India and Xiaomi India as a Data Analyst and Quality Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
+I am skilled in data profiling, validation, and report presentation with 5 years of industry experience <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47t4dteema5zl5p2h02weqvl0bvxe07covum427o3d&ep=v1_gifs_search&rid=200.webp&ct=g" width="38">. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India and Xiaomi India as a Data Analyst and Quality Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nuzhat-Raza&theme=highcontrast)](https://git.io/streak-stats)
 
