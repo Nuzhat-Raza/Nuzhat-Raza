@@ -93,8 +93,8 @@ Aug 2013 – June 2016
 </p>
 
 ### 🧑‍💻 Leetcode Profile  
+<img width="1167" alt="Screenshot 2024-05-28 at 8 05 35 PM" src="https://github.com/Nuzhat-Raza/Nuzhat-Raza/assets/140976114/cd9ee37d-9a32-4248-9cad-1b6491fb2508">
 
-![image](https://github.com/Nuzhat-Raza/NuzhatRaza.github.io/assets/140976114/623faea5-17c2-438c-b85e-ba9d72569de7)
 
 
 ### 📞 Contact Me
