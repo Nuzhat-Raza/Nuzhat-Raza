@@ -23,7 +23,7 @@ I am skilled in data profiling, validation, and report presentation with 5 years
 
 ### About Me
 
-👩‍ Hello! I'm Nuzhat Raza, an enthusiastic data professional at the intersection of Data Analyst and Quality Analyst. Here's a glimpse into what defines me:
+👩‍ Hello! I'm Nuzhat Raza, an enthusiastic data professional at the intersection of Data Analyst and Business Analyst. Here's a glimpse into what defines me:
 
 📊 As a Data Analyst,I developed compelling and interactive analysis reports and dashboards for User feedback analytics.  Collected data from various sources, comparing sales, new features, and user experience with competitor products.
 
