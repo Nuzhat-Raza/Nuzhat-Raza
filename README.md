@@ -13,7 +13,7 @@
 
 ### :woman_technologist: Intro
 
-I am skilled in data profiling, validation, and report presentation with 5 years of industry experience <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47t4dteema5zl5p2h02weqvl0bvxe07covum427o3d&ep=v1_gifs_search&rid=200.webp&ct=g" width="38">. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India and Xiaomi India as a Data Analyst and Business Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
+I am skilled in data profiling, validation, and report presentation with 6 years of industry experience <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/200.webp?cid=ecf05e47t4dteema5zl5p2h02weqvl0bvxe07covum427o3d&ep=v1_gifs_search&rid=200.webp&ct=g" width="38">. I demonstrated expertise in agile processes, teamwork, analytical reasoning, and logical thinking. I worked in Huawei India, Xiaomi India, and Myntra Fashion as a Data Analyst. Where I worked on  Power BI, Jira, SQL, and Cloud Platform on a day-to-day basis at work.
 ### :fire: My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nuzhat-Raza&theme=highcontrast)](https://git.io/streak-stats)
 
@@ -27,7 +27,7 @@ I am skilled in data profiling, validation, and report presentation with 5 years
 
 📊 As a Data Analyst,I developed compelling and interactive analysis reports and dashboards for User feedback analytics.  Collected data from various sources, comparing sales, new features, and user experience with competitor products.
 
-🔧 On the Business Analyst side, I explored the User experience data to understand market process, I ensured that our user feedback team had the most accurate and up-to-date information to inform decision-making and address user concerns.
+🔧 On the Data Business Analyst side, I explored the User experience data to understand market process, I ensured that our user feedback team had the most accurate and up-to-date information to inform decision-making and address user concerns.
 
 🌐 Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and data-driven decision making.
 
@@ -41,15 +41,21 @@ I am skilled in data profiling, validation, and report presentation with 5 years
 
 ⚡ Fun fact: I love finding patterns not only in data but also in the world around me, from spotting hidden connections to discovering new hobbies!
 
-### 🧗‍♀️ Experience  
+### 🧗‍♀️ Experience 
+
+**Myntra Fashion** _(7 months)_  
+:small_orange_diamond:Data Analyst  
+August 2024 - Febuary 2025 _(7 months)_  
+Bengaluru, Karnataka, India  
+_**Overview:**_ Worked in Trust & Safety as Data Analyst and streamlined fraud prevention through impactful dashboard creation, rigorous data cleaning, and innovative data integration strategies, leading to increased accuracy.
 
 **Xiaomi India** _(3 years 6 months)_  
-:small_orange_diamond:Senior Business Analyst  
+:small_orange_diamond:Sr. Data Analyst  
 May 2022 - June 2023 _(1 year 2 months)_  
 Bengaluru, Karnataka, India  
 _**Overview:**_ Experienced Quality Team Lead with a successful track record at Xiaomi, contributing for three and a half years to the company's excellence in product quality and customer satisfaction.  
 
-:small_orange_diamond: Business Analyst  
+:small_orange_diamond: Data Analyst  
 Jan 2020 - May 2022 _(2 year 4 months)_  
 Bengaluru, Karnataka, India  
 _**Overview:**_ Developed numerous insightful reports that provided crucial insights into phone performance and quality, contributing to better decision-making processes within the organization.  
